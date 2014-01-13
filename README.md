@@ -16,5 +16,8 @@ Como a prova era apenas focada na utilização do padrão MVC, não foi necessá
 ## SQL
 O código SQL se encontra no diretório `assets\Projeto.sql`
 
+## [Screenshots][gallery]
+[gallery]: http://imgbox.com/g/HrGf8NWDKW
+
 ## Erros
 Como o tempo de projeto era muito curto, o projeto têm vários problemas de performance, do próprio template utilizado,  caso seja publicado num servidor. Mas, no quesito de Back-End, não foi encontrado erro algum durante a etapa final de desenvolvimento
