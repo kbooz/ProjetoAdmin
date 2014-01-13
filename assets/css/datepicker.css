@@ -1,0 +1,19 @@
+.ui-state-default {
+display: block;
+padding: 2px 8px;
+color: #AAA;
+text-shadow: 1px 1px rgba(255,255,255,0.3);
+}
+
+.ui-state-default .ui-state-active {
+  padding:0;
+}
+
+.ui-datepicker-current-day .ui-state-active{
+  background-color: #EEE!important;
+}
+/*
+.ui-datepicker-calendar td.ui-datepicker-today a{
+  background-color: #AAA!important;
+  color
+}*/

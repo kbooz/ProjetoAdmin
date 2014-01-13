@@ -1,0 +1,217 @@
+.sorting
+{
+	background:url(../img/sort_both.png) no-repeat center right!important
+}
+
+.sorting_asc
+{
+	background:url(../img/sort_asc.png) no-repeat center right!important
+}
+
+.sorting_desc
+{
+	background:url(../img/sort_desc.png) no-repeat center right!important
+}
+
+.sorting_asc_disabled
+{
+	background:url(../img/sort_asc_disabled.png) no-repeat center right!important
+}
+
+.sorting_desc_disabled
+{
+	background:url(../img/sort_desc_disabled.png) no-repeat center right!important
+}
+
+
+.buttonGreen {
+	color: #fff;
+	padding: 5px 15px!important;
+	font-weight: 700;
+	text-shadow: 0 1px 2px rgba(150,150,150,1);
+	background: #33e039;
+
+	background: -webkit-linear-gradient(to bottom,#33e039 0%,#2ec930 100%) !important;
+	background: -moz-linear-gradient(to bottom,#33e039 0%,#2ec930 100%) !important;
+	background: -o-linear-gradient(to bottom,#33e039 0%,#2ec930 100%) !important;
+	background: -ms-linear-gradient(to bottom,#33e039 0%,#2ec930 100%) !important;
+	background: linear-gradient(to bottom,#33e039 0%,#2ec930 100%) !important;
+	text-decoration: none !important;
+	border: 1px solid #33e039 !important;
+}
+
+.buttonBlue {
+	color: #fff;
+	padding: 5px 15px!important;
+	font-weight: 700;
+	text-shadow: 0 1px 2px rgba(150,150,150,1);
+	background: #44a1ff;
+
+	background: -webkit-linear-gradient(to bottom,#44a1ff 0%,#4096ee 100%) !important;
+	background: -moz-linear-gradient(to bottom,#44a1ff 0%,#4096ee 100%) !important;
+	background: -o-linear-gradient(to bottom,#44a1ff 0%,#4096ee 100%) !important;
+	background: -ms-linear-gradient(to bottom,#44a1ff 0%,#4096ee 100%) !important;
+	background: linear-gradient(to bottom,#44a1ff 0%,#4096ee 100%) !important;
+	text-decoration: none !important;
+	border: 1px solid #44a1ff !important;
+}
+
+.buttonOrange {
+	color: #fff;
+	padding: 5px 15px!important;
+	font-weight: 700;
+	text-shadow: 0 1px 2px rgba(150,150,150,1);
+	background: #ffaa00!important; /* Old browsers */
+	background: -moz-linear-gradient(top, #ffaa00 0%, #f29410 100%) !important; /* FF3.6+ */
+	background: -webkit-linear-gradient(top, #ffaa00 0%,#f29410 100%) !important; /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #ffaa00 0%,#f29410 100%) !important; /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #ffaa00 0%,#f29410 100%) !important; /* IE10+ */
+	background: linear-gradient(to bottom, #ffaa00 0%,#f29410 100%) !important; /* W3C */
+	text-decoration: none !important;
+	border: 1px solid #ffaa00 !important;
+}
+
+.buttonRed {
+	color: #fff;
+	padding: 5px 15px!important;
+	font-weight: 700;
+	text-shadow: 0 1px 2px rgba(150,150,150,1);
+	background: #f44!important;
+
+	background: -webkit-linear-gradient(to bottom,#f44 0%,#ea4141 100%) !important;
+	background: -moz-linear-gradient(to bottom,#f44 0%,#ea4141 100%) !important;
+	background: -o-linear-gradient(to bottom,#f44 0%,#ea4141 100%) !important;
+	background: -ms-linear-gradient(to bottom,#f44 0%,#ea4141 100%) !important;
+	background: linear-gradient(to bottom,#f44 0%,#ea4141 100%) !important;
+	text-decoration: none !important;
+	border: 1px solid #f44 !important;
+}
+
+.buttonGrey
+{
+	border: 1px solid #aaa;
+	color: #999 !important;
+	border-radius: 4px;
+	background-color: #fff!important;
+	background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #eee), color-stop(0.5, #fff))!important;
+	background: -webkit-linear-gradient(center bottom, #eee 0%, #fff 50%)!important;
+	background: -moz-linear-gradient(center bottom, #eee 0%, #fff 50%)!important;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#eeeeee', GradientType = 0)!important;
+	background: linear-gradient(top, #fff 0%, #eee 50%)!important;
+	padding: 4px 10px!important;
+		
+}
+
+.buttonGrey:hover
+{
+	-webkit-box-shadow: inset 2px 2px 5px 0 rgba(0,0,0,0.1);
+	box-shadow: inset 2px 2px 5px 0 rgba(0,0,0,0.1);
+}
+
+.buttonRed:hover, .buttonOrange:hover, .buttonBlue:hover, .buttonGreen:hover
+{
+	color: #EEE!important;
+	-webkit-box-shadow: inset 2px 2px 5px 0 rgba(0,0,0,0.2);
+	box-shadow: inset 2px 2px 5px 0 rgba(0,0,0,0.2);
+}
+
+
+
+.buttonRed, .buttonOrange, .buttonBlue, .buttonGreen, .buttonGrey
+{
+	
+}
+
+.formtable td{
+	padding: 5px !important;
+}
+
+.formtable div,.formtable td,.formtable label{
+	vertical-align: middle;
+}
+
+.formtable td input{
+	padding: 7px 5px;
+}
+
+.actionBar a, .actionBar button{
+	float:none!important;
+}
+
+.alert-login
+{
+	margin-bottom: 0!important;
+}
+
+.leftmenu
+{
+	margin: 0!important;
+}
+
+.actions
+{
+	vertical-align:middle!important;
+}
+
+.tablegray{
+	background: #eee !important;
+}
+
+.bb {
+	width: 98%;
+    }
+.tablewhite{
+	background-color: white;
+}
+
+.table-footer{
+	text-align: right!important;
+	font-weight:bold !important;
+}
+
+.erro li {
+	margin-left:25px!important;
+}
+
+.orcamentoValor{
+	width: 100px!important;
+	text-align: right;
+	padding: 0!important;
+	font-family: 'RobotoBold', 'HelveticaNeue', Arial, sans-serif!important;
+	font-size: 28px!important;
+	height: 28px!important;
+	vertical-align: top!important;
+	color:green!important;
+}
+
+.red{
+	color:red!important;
+}
+
+.green{
+	color: green!important;
+}
+
+.blue{
+	color: blue!important;
+}
+
+.orcamento_lucro_valor{
+	font-size: 28px!important;
+	display: inline-block!important;
+}
+
+.titulo{
+	font-size: 28px;
+	padding: 10px 10px!important;
+	font-weight: normal!important;
+}
+
+.obs{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 100%;
+	height: 165px;
+	resize: none;
+}
