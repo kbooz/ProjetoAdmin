@@ -128,4 +128,8 @@ INSERT INTO orcamento ( `nome`, `idCliente`, `valor`, `dataentrada`, `datasaida`
 ('Filmagem tal', 2, 900, '2013-12-03', '2013-12-26', NULL, 700);
 
 Insert into pessoa_funcao ('id','nome')
-(1,'Cliente')
+(1,'Cliente');
+
+INSERT into user_grupo ('nome') values ('admin');
+
+Insert into user ('user','senha','status','grupo') values ('admin','202cb962ac59075b964b07152d234b70','1','1');
